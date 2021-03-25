@@ -11,7 +11,7 @@ REPORT ZANK_P_OBSERVER_PATTERN_02.
 * All the subsrcibers should be notified whenever there is a change in
 * the weather parameters
 *&==========================================================================
-
+* Dummy Change
 INTERFACE if_observer.
   METHODS notification.
 ENDINTERFACE.
